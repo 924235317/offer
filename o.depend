@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1518402265 source:d:\program\codeblocks\o\main.cpp
+	<iostream>
+	"o_array.hpp"
+	"o_assignment_operator.hpp"
+	"find_duplication.hpp"
+
+1518138000 d:\program\codeblocks\o\o_array.hpp
+	<iostream>
+
+1518399922 source:d:\program\codeblocks\o\o_array.cpp
+	"o_array.hpp"
+
+1518400300 d:\program\codeblocks\o\o_assignment_operator.hpp
+	<cstring>
+	<cstdio>
+
+1518398669 source:d:\program\codeblocks\o\o_assignment_operator.cpp
+
+1518402354 d:\program\codeblocks\o\find_duplication.hpp
+	<cstdio>
+
