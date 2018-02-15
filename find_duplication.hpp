@@ -63,6 +63,18 @@ void test_duplicate_edit()
 //        正数  - 输入有效，并且数组中存在重复的数字，返回值为重复的数字
 //        负数  - 输入无效，或者数组中没有重复的数字
 
+int count_range(int numbers[], int length, int start, int end)
+{
+    if(numbers == nullptr)
+        return 0;
+
+    int count = 0;
+    for(int i = 0; i < length; i++)
+        if(numbers[i] >= start && numbers[i] <= end)
+            ++count;
+    return count;
+}
+
 int duplicate_noedit(int numbers[], int length)
 {
     if(numbers == nullptr || length <= 0)
@@ -70,9 +82,29 @@ int duplicate_noedit(int numbers[], int length)
 
     int start = 1;
     int end = length - 1;
-    while(start <= end)
+    while(end >= start)
     {
-        int mid = (end - start) / 2 + start;
+        int middle = ((end - start) / 2) + start;
+        int count = count_range(numbers, length, start, middle);
+        if(end == start)
+        {
+            if(count > 1)
+                return start;
+            else
+                break;
+        }
 
+        if(count > (middle - start + 1))
+            end = middle;
+        else
+            start = middle + 1;
     }
+    return -1;
+}
+
+void test_duplicate_noedit()
+{
+    int numbers[] = {2,1,3,4,6,4,6};
+    int duplication = duplicate_noedit(numbers, 7);
+    printf("%d\n", duplication);
 }

@@ -32,12 +32,24 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Utilities/Array.cpp" />
+		<Unit filename="Utilities/Array.h" />
+		<Unit filename="Utilities/BinaryTree.cpp" />
+		<Unit filename="Utilities/BinaryTree.h" />
+		<Unit filename="Utilities/List.cpp" />
+		<Unit filename="Utilities/List.h" />
+		<Unit filename="Utilities/StringUtil.cpp" />
+		<Unit filename="Utilities/StringUtil.h" />
+		<Unit filename="Utilities/Tree.cpp" />
+		<Unit filename="Utilities/Tree.h" />
 		<Unit filename="find_duplication.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="o_array.cpp" />
 		<Unit filename="o_array.hpp" />
 		<Unit filename="o_assignment_operator.cpp" />
 		<Unit filename="o_assignment_operator.hpp" />
+		<Unit filename="o_print_list_reversed.hpp" />
+		<Unit filename="o_replace_spaces.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

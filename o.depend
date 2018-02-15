@@ -20,3 +20,61 @@
 1518402354 d:\program\codeblocks\o\find_duplication.hpp
 	<cstdio>
 
+1518579353 source:d:\job\offer\main.cpp
+	<iostream>
+	"o_array.hpp"
+	"o_assignment_operator.hpp"
+	"find_duplication.hpp"
+	"o_replace_spaces.hpp"
+
+1518570626 d:\job\offer\o_array.hpp
+	<iostream>
+
+1518570626 d:\job\offer\o_assignment_operator.hpp
+	<cstring>
+	<cstdio>
+
+1518576524 d:\job\offer\find_duplication.hpp
+	<cstdio>
+
+1518570626 source:d:\job\offer\o_array.cpp
+	"o_array.hpp"
+
+1518570626 source:d:\job\offer\o_assignment_operator.cpp
+
+1518579977 d:\job\offer\o_replace_spaces.hpp
+	<cstdio>
+	<cstring>
+
+1518581204 source:d:\job\offer\utilities\array.cpp
+	<stdlib.h>
+	"Array.h"
+	<exception>
+
+1518580891 d:\job\offer\utilities\array.h
+
+1518570581 source:d:\job\offer\utilities\binarytree.cpp
+	<cstdio>
+	"BinaryTree.h"
+
+1518570581 d:\job\offer\utilities\binarytree.h
+
+1518570581 source:d:\job\offer\utilities\list.cpp
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1518580826 d:\job\offer\utilities\list.h
+
+1518570581 source:d:\job\offer\utilities\stringutil.cpp
+	"StringUtil.h"
+
+1518580929 d:\job\offer\utilities\stringutil.h
+
+1518570581 source:d:\job\offer\utilities\tree.cpp
+	"Tree.h"
+
+1518581243 d:\job\offer\utilities\tree.h
+	<vector>
+	<cstdio>
+
