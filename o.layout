@@ -2,9 +2,14 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Release" />
-	<File name="find_duplication.hpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Utilities\Tree.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3134" topLine="73" />
+			<Cursor1 position="619" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="o_robot_move.hpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3324" topLine="106" />
 		</Cursor>
 	</File>
 	<File name="o_array.hpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -12,9 +17,19 @@
 			<Cursor1 position="182" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Utilities\StringUtil.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="o_delete_node_in_list.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="583" topLine="0" />
+			<Cursor1 position="3244" topLine="112" />
+		</Cursor>
+	</File>
+	<File name="o_minnumber_in_rotated_array.hpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="614" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="o_quick_sort.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1148" topLine="35" />
 		</Cursor>
 	</File>
 	<File name="o_assignment_operator.hpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -22,39 +37,24 @@
 			<Cursor1 position="1089" topLine="51" />
 		</Cursor>
 	</File>
-	<File name="o_replace_spaces.hpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Utilities\Tree.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3451" topLine="75" />
+			<Cursor1 position="977" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="o_assignment_operator.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="o_stringpath_in_matrix.hpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="0" topLine="0" />
+			<Cursor1 position="993" topLine="35" />
 		</Cursor>
 	</File>
-	<File name="Utilities\Array.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Utilities\List.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1053" topLine="19" />
+			<Cursor1 position="861" topLine="11" />
 		</Cursor>
 	</File>
-	<File name="Utilities\List.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="fibonacci_solution.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="654" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Utilities\Tree.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="619" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="185" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="o_print_list_reversed.hpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1566" topLine="54" />
+			<Cursor1 position="1492" topLine="50" />
 		</Cursor>
 	</File>
 	<File name="Utilities\Array.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -62,14 +62,54 @@
 			<Cursor1 position="599" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Utilities\Tree.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="o_print_list_reversed.hpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="977" topLine="0" />
+			<Cursor1 position="164" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="o_array.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="479" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="o_assignment_operator.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="o_next_node_in_binarytrees.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="Utilities\StringUtil.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="583" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Utilities\Array.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="784" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="find_duplication.hpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3134" topLine="73" />
+		</Cursor>
+	</File>
+	<File name="o_delete_duplication_node_in_list.hpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1621" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="o_replace_spaces.hpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3451" topLine="75" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1426" topLine="40" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

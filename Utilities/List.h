@@ -6,7 +6,8 @@ Distributed under the BSD license.
 (See accompanying file LICENSE.txt at
 https://github.com/zhedahht/CodingInterviewChinese2/blob/master/LICENSE.txt)
 *******************************************************************/
-
+#ifndef _LIST_H_
+#define _LIST_H_
 //==================================================================
 // 《剑指Offer——名企面试官精讲典型编程题》代码
 // 作者：何海涛
@@ -25,3 +26,6 @@ void PrintList(ListNode* pHead);
 void DestroyList(ListNode* pHead);
 void AddToTail(ListNode** pHead, int value);
 void RemoveNode(ListNode** pHead, int value);
+
+#endif // _LIST_H_
+

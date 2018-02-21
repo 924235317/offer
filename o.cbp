@@ -42,14 +42,27 @@
 		<Unit filename="Utilities/StringUtil.h" />
 		<Unit filename="Utilities/Tree.cpp" />
 		<Unit filename="Utilities/Tree.h" />
+		<Unit filename="fibonacci_solution.hpp" />
 		<Unit filename="find_duplication.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="o_array.cpp" />
 		<Unit filename="o_array.hpp" />
 		<Unit filename="o_assignment_operator.cpp" />
 		<Unit filename="o_assignment_operator.hpp" />
+		<Unit filename="o_construct_binarytree.hpp" />
+		<Unit filename="o_cut_rope.hpp" />
+		<Unit filename="o_delete_duplication_node_in_list.hpp" />
+		<Unit filename="o_delete_node_in_list.hpp" />
+		<Unit filename="o_minnumber_in_rotated_array.hpp" />
+		<Unit filename="o_next_node_in_binarytrees.hpp" />
+		<Unit filename="o_number_of1_in_binary.hpp" />
+		<Unit filename="o_power.hpp" />
+		<Unit filename="o_print1_to_max_of_ndigits.hpp" />
 		<Unit filename="o_print_list_reversed.hpp" />
+		<Unit filename="o_quick_sort.hpp" />
 		<Unit filename="o_replace_spaces.hpp" />
+		<Unit filename="o_robot_move.hpp" />
+		<Unit filename="o_stringpath_in_matrix.hpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

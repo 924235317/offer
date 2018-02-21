@@ -1,9 +1,24 @@
 # depslib dependency file v1.0
-1518402265 source:d:\program\codeblocks\o\main.cpp
+1519183590 source:d:\program\codeblocks\o\main.cpp
 	<iostream>
 	"o_array.hpp"
 	"o_assignment_operator.hpp"
 	"find_duplication.hpp"
+	"o_replace_spaces.hpp"
+	"o_print_list_reversed.hpp"
+	"o_construct_binarytree.hpp"
+	"o_next_node_in_binarytrees.hpp"
+	"fibonacci_solution.hpp"
+	"o_minnumber_in_rotated_array.hpp"
+	"o_quick_sort.hpp"
+	"o_stringpath_in_matrix.hpp"
+	"o_robot_move.hpp"
+	"o_cut_rope.hpp"
+	"o_number_of1_in_binary.hpp"
+	"o_power.hpp"
+	"o_print1_to_max_of_ndigits.hpp"
+	"o_delete_node_in_list.hpp"
+	"o_delete_duplication_node_in_list.hpp"
 
 1518138000 d:\program\codeblocks\o\o_array.hpp
 	<iostream>
@@ -17,7 +32,7 @@
 
 1518398669 source:d:\program\codeblocks\o\o_assignment_operator.cpp
 
-1518402354 d:\program\codeblocks\o\find_duplication.hpp
+1518742704 d:\program\codeblocks\o\find_duplication.hpp
 	<cstdio>
 
 1518579353 source:d:\job\offer\main.cpp
@@ -77,4 +92,93 @@
 1518581243 d:\job\offer\utilities\tree.h
 	<vector>
 	<cstdio>
+
+1518742705 d:\program\codeblocks\o\o_replace_spaces.hpp
+	<cstdio>
+	<cstring>
+
+1518742704 d:\program\codeblocks\o\o_print_list_reversed.hpp
+	"Utilities\List.h"
+	<stack>
+
+1519183501 d:\program\codeblocks\o\utilities\list.h
+
+1518742704 source:d:\program\codeblocks\o\utilities\array.cpp
+	<stdlib.h>
+	"Array.h"
+	<exception>
+
+1518742704 d:\program\codeblocks\o\utilities\array.h
+
+1518742704 source:d:\program\codeblocks\o\utilities\binarytree.cpp
+	<cstdio>
+	"BinaryTree.h"
+
+1518744086 d:\program\codeblocks\o\utilities\binarytree.h
+
+1518742704 source:d:\program\codeblocks\o\utilities\list.cpp
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+
+1518742704 source:d:\program\codeblocks\o\utilities\stringutil.cpp
+	"StringUtil.h"
+
+1518742704 d:\program\codeblocks\o\utilities\stringutil.h
+
+1518742704 source:d:\program\codeblocks\o\utilities\tree.cpp
+	"Tree.h"
+
+1518742704 d:\program\codeblocks\o\utilities\tree.h
+	<vector>
+	<cstdio>
+
+1518748569 d:\program\codeblocks\o\o_construct_binarytree.hpp
+	".\Utilities\BinaryTree.h"
+	<exception>
+	<cstdio>
+
+1518752315 d:\program\codeblocks\o\o_next_node_in_binarytrees.hpp
+	<stdio.h>
+
+1518833207 d:\program\codeblocks\o\fibonacci_solution.hpp
+	<cstdio>
+
+1518852858 d:\program\codeblocks\o\o_minnumber_in_rotated_array.hpp
+	<cstdio>
+	<exception>
+
+1518943772 d:\program\codeblocks\o\o_quick_sort.hpp
+	<cstdio>
+
+1518943919 d:\program\codeblocks\o\o_stringpath_in_matrix.hpp
+	<cstdio>
+	<string>
+	<stack>
+
+1518946099 d:\program\codeblocks\o\o_robot_move.hpp
+	<cstdio>
+
+1519010646 d:\program\codeblocks\o\o_cut_rope.hpp
+	<iostream>
+	<cmath>
+
+1519028468 d:\program\codeblocks\o\o_number_of1_in_binary.hpp
+	<cstdio>
+
+1519096077 d:\program\codeblocks\o\o_power.hpp
+	<iostream>
+	<cmath>
+
+1519179606 d:\program\codeblocks\o\o_print1_to_max_of_ndigits.hpp
+	<cstdio>
+	<memory>
+
+1519181490 d:\program\codeblocks\o\o_delete_node_in_list.hpp
+	<cstdio>
+	".\Utilities\List.h"
+
+1519196469 d:\program\codeblocks\o\o_delete_duplication_node_in_list.hpp
+	<cstdio>
+	"./Utilities/list.h"
 
