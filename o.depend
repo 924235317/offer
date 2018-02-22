@@ -35,12 +35,28 @@
 1518742704 d:\program\codeblocks\o\find_duplication.hpp
 	<cstdio>
 
-1518579353 source:d:\job\offer\main.cpp
+1519311109 source:d:\job\offer\main.cpp
 	<iostream>
 	"o_array.hpp"
 	"o_assignment_operator.hpp"
 	"find_duplication.hpp"
 	"o_replace_spaces.hpp"
+	"o_print_list_reversed.hpp"
+	"o_construct_binarytree.hpp"
+	"o_next_node_in_binarytrees.hpp"
+	"fibonacci_solution.hpp"
+	"o_minnumber_in_rotated_array.hpp"
+	"o_quick_sort.hpp"
+	"o_stringpath_in_matrix.hpp"
+	"o_robot_move.hpp"
+	"o_cut_rope.hpp"
+	"o_number_of1_in_binary.hpp"
+	"o_power.hpp"
+	"o_print1_to_max_of_ndigits.hpp"
+	"o_delete_node_in_list.hpp"
+	"o_delete_duplication_node_in_list.hpp"
+	"o_regular_expressions.hpp"
+	"o_numric_string.hpp"
 
 1518570626 d:\job\offer\o_array.hpp
 	<iostream>
@@ -72,14 +88,14 @@
 	<cstdio>
 	"BinaryTree.h"
 
-1518570581 d:\job\offer\utilities\binarytree.h
+1519300828 d:\job\offer\utilities\binarytree.h
 
 1518570581 source:d:\job\offer\utilities\list.cpp
 	"list.h"
 	<stdio.h>
 	<stdlib.h>
 
-1518580826 d:\job\offer\utilities\list.h
+1519300828 d:\job\offer\utilities\list.h
 
 1518570581 source:d:\job\offer\utilities\stringutil.cpp
 	"StringUtil.h"
@@ -181,4 +197,63 @@
 1519196469 d:\program\codeblocks\o\o_delete_duplication_node_in_list.hpp
 	<cstdio>
 	"./Utilities/list.h"
+
+1518581706 d:\job\offer\o_print_list_reversed.hpp
+	"Utilities\List.h"
+	<stack>
+
+1519300828 d:\job\offer\o_construct_binarytree.hpp
+	".\Utilities\BinaryTree.h"
+	<exception>
+	<cstdio>
+
+1519300828 d:\job\offer\o_next_node_in_binarytrees.hpp
+	<stdio.h>
+
+1519300828 d:\job\offer\fibonacci_solution.hpp
+	<cstdio>
+
+1519300828 d:\job\offer\o_minnumber_in_rotated_array.hpp
+	<cstdio>
+	<exception>
+
+1519300828 d:\job\offer\o_quick_sort.hpp
+	<cstdio>
+
+1519300828 d:\job\offer\o_stringpath_in_matrix.hpp
+	<cstdio>
+	<string>
+	<stack>
+
+1519300828 d:\job\offer\o_robot_move.hpp
+	<cstdio>
+
+1519300828 d:\job\offer\o_cut_rope.hpp
+	<iostream>
+	<cmath>
+
+1519300828 d:\job\offer\o_number_of1_in_binary.hpp
+	<cstdio>
+
+1519300828 d:\job\offer\o_power.hpp
+	<iostream>
+	<cmath>
+
+1519300828 d:\job\offer\o_print1_to_max_of_ndigits.hpp
+	<cstdio>
+	<memory>
+
+1519300828 d:\job\offer\o_delete_node_in_list.hpp
+	<cstdio>
+	".\Utilities\List.h"
+
+1519300828 d:\job\offer\o_delete_duplication_node_in_list.hpp
+	<cstdio>
+	"./Utilities/list.h"
+
+1519304682 d:\job\offer\o_regular_expressions.hpp
+	<cstdio>
+
+1519311990 d:\job\offer\o_numric_string.hpp
+	<stdio.h>
 

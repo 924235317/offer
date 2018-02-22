@@ -56,10 +56,12 @@
 		<Unit filename="o_minnumber_in_rotated_array.hpp" />
 		<Unit filename="o_next_node_in_binarytrees.hpp" />
 		<Unit filename="o_number_of1_in_binary.hpp" />
+		<Unit filename="o_numric_string.hpp" />
 		<Unit filename="o_power.hpp" />
 		<Unit filename="o_print1_to_max_of_ndigits.hpp" />
 		<Unit filename="o_print_list_reversed.hpp" />
 		<Unit filename="o_quick_sort.hpp" />
+		<Unit filename="o_regular_expressions.hpp" />
 		<Unit filename="o_replace_spaces.hpp" />
 		<Unit filename="o_robot_move.hpp" />
 		<Unit filename="o_stringpath_in_matrix.hpp" />

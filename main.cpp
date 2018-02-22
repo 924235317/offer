@@ -17,8 +17,16 @@
 #include "o_print1_to_max_of_ndigits.hpp"
 #include "o_delete_node_in_list.hpp"
 #include "o_delete_duplication_node_in_list.hpp"
+#include "o_regular_expressions.hpp"
+#include "o_numric_string.hpp"
 
 using namespace std;
+
+int test(char *s)
+{
+    s++;
+    return 0;
+}
 
 int main()
 {
@@ -55,5 +63,9 @@ int main()
     //test_print1_to_max_of_ndigits();
 
     //test_delete_node_in_list();
-    test_delete_duplicated_node_in_list();
+    //test_delete_duplicated_node_in_list();
+
+    //test_regular_expressions();
+
+    test_numeric_string();
 }
