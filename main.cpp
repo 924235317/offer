@@ -19,6 +19,9 @@
 #include "o_delete_duplication_node_in_list.hpp"
 #include "o_regular_expressions.hpp"
 #include "o_numric_string.hpp"
+#include "o_reorder_array.hpp"
+#include "kth_node_from_end.hpp"
+#include "o_entry_node_list_loop.hpp"
 
 using namespace std;
 
@@ -67,5 +70,10 @@ int main()
 
     //test_regular_expressions();
 
-    test_numeric_string();
+    //test_numeric_string();
+    //test_reorder_array();
+    //test_kth_node_from_end();
+
+    test_entry_node_list_loop();
+
 }

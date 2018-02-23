@@ -35,7 +35,7 @@
 1518742704 d:\program\codeblocks\o\find_duplication.hpp
 	<cstdio>
 
-1519311109 source:d:\job\offer\main.cpp
+1519403600 source:d:\job\offer\main.cpp
 	<iostream>
 	"o_array.hpp"
 	"o_assignment_operator.hpp"
@@ -57,6 +57,9 @@
 	"o_delete_duplication_node_in_list.hpp"
 	"o_regular_expressions.hpp"
 	"o_numric_string.hpp"
+	"o_reorder_array.hpp"
+	"kth_node_from_end.hpp"
+	"o_entry_node_list_loop.hpp"
 
 1518570626 d:\job\offer\o_array.hpp
 	<iostream>
@@ -256,4 +259,15 @@
 
 1519311990 d:\job\offer\o_numric_string.hpp
 	<stdio.h>
+
+1519397386 d:\job\offer\o_reorder_array.hpp
+	<cstdio>
+
+1519403052 d:\job\offer\kth_node_from_end.hpp
+	<cstdio>
+	".\Utilities\List.h"
+
+1519404031 d:\job\offer\o_entry_node_list_loop.hpp
+	<cstdio>
+	"./Utilities/list.h"
 

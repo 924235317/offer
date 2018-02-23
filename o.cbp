@@ -44,6 +44,7 @@
 		<Unit filename="Utilities/Tree.h" />
 		<Unit filename="fibonacci_solution.hpp" />
 		<Unit filename="find_duplication.hpp" />
+		<Unit filename="kth_node_from_end.hpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="o_array.cpp" />
 		<Unit filename="o_array.hpp" />
@@ -53,6 +54,7 @@
 		<Unit filename="o_cut_rope.hpp" />
 		<Unit filename="o_delete_duplication_node_in_list.hpp" />
 		<Unit filename="o_delete_node_in_list.hpp" />
+		<Unit filename="o_entry_node_list_loop.hpp" />
 		<Unit filename="o_minnumber_in_rotated_array.hpp" />
 		<Unit filename="o_next_node_in_binarytrees.hpp" />
 		<Unit filename="o_number_of1_in_binary.hpp" />
@@ -62,6 +64,7 @@
 		<Unit filename="o_print_list_reversed.hpp" />
 		<Unit filename="o_quick_sort.hpp" />
 		<Unit filename="o_regular_expressions.hpp" />
+		<Unit filename="o_reorder_array.hpp" />
 		<Unit filename="o_replace_spaces.hpp" />
 		<Unit filename="o_robot_move.hpp" />
 		<Unit filename="o_stringpath_in_matrix.hpp" />
